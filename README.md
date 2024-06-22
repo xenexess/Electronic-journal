@@ -28,3 +28,5 @@
 ![image](https://github.com/xenexess/Electronic-journal/assets/91844842/3d801fe6-d9fe-4110-92b2-38335228a31a)
 ## Окно со списком групп
 
+https://www.youtube.com/watch?v=uV4k2IdZ0Lo
+## Ссылка на демонстрацию проекта
